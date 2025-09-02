@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: sales_dataset
+    database: peppy-center-470216-t9
+    schema: sales_dataset
+    tables:
+      - name: sales_raw
